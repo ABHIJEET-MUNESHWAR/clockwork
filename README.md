@@ -12,6 +12,10 @@ There are also a third-party [Firebug extension](https://github.com/sidorovich/c
 
 This extension provides out of the box support for Laravel, Slim 2 and CodeIgniter 2.1 frameworks, you can add support for any other or custom framework via an extensible API.
 
+Exceute below command:
+
+composer require "itsgoingd/clockwork"
+
 To install latest version simply add it to your `composer.json`:
 
 ```javascript
